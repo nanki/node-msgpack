@@ -1,5 +1,5 @@
 {
-	"name": "msgpack",
+	"name": "msgpack-raw",
 	"description": "A space-efficient object serialization library for node.js",
 	"version": "0.1.8",
 	"homepage": "https://github.com/pgriess/node-msgpack",
@@ -16,7 +16,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pgriess/node-msgpack.git"
+		"url": "https://github.com/nanki/node-msgpack.git"
 	},
 	"main": "./lib/msgpack",
 	"directories": {
